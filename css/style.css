@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+label{
+    color: purple;
+    background-color: blue;
+    padding: 10px;
+}
+input[type="reset"]{
+    color: white;
+    background-color: blue;
+}
+markquee{
+    color: red;
+}
